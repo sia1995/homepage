@@ -266,6 +266,6 @@ body {
     color: var(--secondary-text-color);
 }
 
-.fa-briefcase {
+.fa-briefcase, .fa-graduation-cap {
     margin-right: 10px;
 }
