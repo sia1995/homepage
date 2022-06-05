@@ -265,3 +265,7 @@ body {
 .additional-info__languages-item {
     color: var(--secondary-text-color);
 }
+
+.fa-briefcase {
+    margin-right: 10px;
+}
