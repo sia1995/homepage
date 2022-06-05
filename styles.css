@@ -32,7 +32,6 @@ body {
 .fv {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
 }
 
 .resume {
@@ -225,10 +224,6 @@ body {
     flex: 1 1 40%;
 }
 
-.additional-info__education {
-    margin-bottom: 20px;
-}
-
 .additional-info__education-header {
     color: var(--secondary-text-color);
     text-align: left;
@@ -268,4 +263,9 @@ body {
 
 .fa-briefcase, .fa-graduation-cap {
     margin-right: 10px;
+}
+
+.qr {
+    width: 200px;
+    height: 100px;
 }
